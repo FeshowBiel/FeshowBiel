@@ -17,5 +17,5 @@ Transformo dados brutos em decisões estratégicas. Atualmente, foco em automati
 ---
 
 ### 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/SEU-LINK-AQUI)
-- [E-mail](mailto:SEU-EMAIL@EXEMPLO.COM)
+- [LinkedIn]([https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/gabriel-barbosa-galv%C3%A3o-ribeiro-54b64b17b/))
+- [E-mail](mailto:gabriel.b.g.ribeiro@hotmail.com)
