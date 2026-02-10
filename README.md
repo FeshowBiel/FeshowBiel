@@ -12,7 +12,7 @@ Transformo dados brutos em decisões estratégicas. Atualmente, foco em automati
 ---
 
 ###  Projetos Principais
-* [📊 Análise de Custos de Manutenção 2025](https://github.com/FeshowBiel/analise-custos-manutencao) - Automação de KPIs operacionais e financeiros.
+* [ Análise de Custos de Manutenção 2025](https://github.com/FeshowBiel/analise-custos-manutencao) - Automação de KPIs operacionais e financeiros.
 
 ---
 
