@@ -1,8 +1,8 @@
-# Olá, eu sou o Gabriel! 👋
+# Olá, eu sou o Gabriel Barbosa! 👋
 
-### 🚀 Estudante de ADS & Analista de Dados Administrativos
+### 🚀 Estudante de ADS & Analista de Dados
 
-Transformo dados em decisões estratégicas. Atualmente, foco em automatizar processos e gerar insights financeiros utilizando tecnologia.
+Transformo dados brutos em decisões estratégicas. Atualmente, foco em automatizar processos e gerar insights financeiros utilizando tecnologia para otimizar resultados de negócio.
 
 - 📈 **Destaque:** Desenvolvi uma automação em Python para análise de manutenção de frotas que gerou uma **economia de R$ 1,5 milhão** em 2025.
 - 🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas (ADS).
@@ -12,10 +12,10 @@ Transformo dados em decisões estratégicas. Atualmente, foco em automatizar pro
 ---
 
 ### 📂 Projetos Principais
-* [Análise de Custos de Manutenção 2025](https://github.com/SEU_USUARIO/analise-custos-manutencao) - Automação de KPIs operacionais e financeiros.
+* [📊 Análise de Custos de Manutenção 2025](https://github.com/FeshowBiel/analise-custos-manutencao) - Automação de KPIs operacionais e financeiros.
 
 ---
 
 ### 📫 Contato
-- [LinkedIn](LINK_DO_SEU_LINKEDIN)
-- [E-mail](SEU_EMAIL@EXEMPLO.COM)
+- [LinkedIn](https://www.linkedin.com/in/SEU-LINK-AQUI)
+- [E-mail](mailto:SEU-EMAIL@EXEMPLO.COM)
