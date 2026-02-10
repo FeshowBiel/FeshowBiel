@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel! 👋
 
-<!--
-**FeshowBiel/FeshowBiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Estudante de ADS & Analista de Dados Administrativos
 
-Here are some ideas to get you started:
+Transformo dados em decisões estratégicas. Atualmente, foco em automatizar processos e gerar insights financeiros utilizando tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 **Destaque:** Desenvolvi uma automação em Python para análise de manutenção de frotas que gerou uma **economia de R$ 1,5 milhão** em 2025.
+- 🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas (ADS).
+- 🛠️ **Habilidades:** Python, Pandas, Git/GitHub e Análise de Dados.
+- 🌱 **Foco Atual:** Power BI, Streamlit e Engenharia de Dados.
+
+---
+
+### 📂 Projetos Principais
+* [Análise de Custos de Manutenção 2025](https://github.com/SEU_USUARIO/analise-custos-manutencao) - Automação de KPIs operacionais e financeiros.
+
+---
+
+### 📫 Contato
+- [LinkedIn](LINK_DO_SEU_LINKEDIN)
+- [E-mail](SEU_EMAIL@EXEMPLO.COM)
